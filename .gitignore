@@ -1,0 +1,15 @@
+# Compiled Binaries
+*.o
+*.out
+*.exe
+bin/
+build/
+
+# OS/IDE junk
+.DS_Store
+.vscode/
+.idea/
+
+# Large files
+*.log
+core.*
