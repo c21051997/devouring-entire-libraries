@@ -1,0 +1,10 @@
+Parent: also writing to the same fd
+Parent: also writing to the same fd
+Parent: also writing to the same fd
+Parent: also writing to the same fd
+Parent: also writing to the same fd
+Child: writing to the shared file fd
+Child: writing to the shared file fd
+Child: writing to the shared file fd
+Child: writing to the shared file fd
+Child: writing to the shared file fd
